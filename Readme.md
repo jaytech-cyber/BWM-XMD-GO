@@ -150,5 +150,5 @@ Once configured, your bot will be ready to use!
 </p>
 
 <p align="center">
-  <strong>BWM XMD PRO © 2026 | Developed by Ibrahim Adams</strong>
+  <strong>BWM XMD PRO © 2026 | Developed by Yusuf Mohammed</strong>
 </p>
